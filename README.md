@@ -1,6 +1,6 @@
 # Personality-Classifier
 
-This project uses a combination of machine learning algorithms and the careful selection of facial features to precisely determine the personality of a person.
+This personality classifier project aims to use a combination of ML algorithms and the careful selection of facial features to precisely determine the personality of a person.
 
 # Prerequisites
 
