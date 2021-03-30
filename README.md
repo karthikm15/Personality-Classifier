@@ -59,7 +59,7 @@ To add accuracy, a separate convolutional neural network will be used for each f
 Because some images in the dataset are more reliable than others (e.g. the scraped images are less reliable than those from the CelebA dataset), we add different weights to each of these images when training the model with these batches.
 
 # Step #2: Classifying the Individual's Personality
-
+ 
 After finding these facial characteristics using ML algorithms and the *dlib* library, the personality can easily be classified by using a lookup table containing the facial characteristic and its corresponding strength pertaining to the personality trait.
 
 ## Lookup Table
