@@ -2,7 +2,7 @@
 
 This personality classifier project mainly uses a combination of machine learning algorithms and a careful selection of facial features to precisely determine the personality of a person.
 
-# Prerequisites
+# Prerequisites 
 
 This project assumes an intermediate to advanced knowledge of Python and its data science libraries, including Numpy, Keras, Tensorflow, and Pandas. Additionally knowledge of CNNs and how object detection algorithms will be useful is helpful.
 
